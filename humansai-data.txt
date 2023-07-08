@@ -1,0 +1,214 @@
+context= [
+  {
+    "title": "HEART Description",
+    "url": "Portfolio Data",
+    "content": "Humans.ai is a next generation blockchain platform that brings together an ecosystem of stakeholders around the use of AI to create at scale."
+  },
+  {
+    "title": "HEART Total Supply",
+    "url": "Portfolio Data",
+    "content": "TOTAL SUPPLY: 7800000000"
+  },
+  {
+    "title": "HEART Coins Owned",
+    "url": "Portfolio Data",
+    "content": "AMOUNT OF COINS OWNED: 3256123"
+  },
+  {
+    "title": "HEART Maximum Supply",
+    "url": "Portfolio Data",
+    "content": "MAX SUPPLY: 7800000000"
+  },
+  {
+    "title": "HEART Circulating Supply",
+    "url": "Portfolio Data",
+    "content": "CIRCULATING SUPPLY: 4317300000"
+  },
+  {
+    "title": "HEART Current Price",
+    "url": "Today's data",
+    "content": "PRICE PER COIN: 0.0149425$"
+  },
+  {
+    "title": "HEART 24h Price Change",
+    "url": "Today's data",
+    "content": "24h PRICE CHANGE: HEART had a movement of -3.31874%"
+  },
+  {
+    "title": "HEART 24h High",
+    "url": "Today's data",
+    "content": "24H TIME HIGH: HEART has had a 24 hour high of 0.01545543 USD"
+  },
+  {
+    "title": "HEART 24h Low",
+    "url": "Today's data",
+    "content": "24H TIME LOW: HEART has had a 24 hour low of 0.0148992 USD"
+  },
+  {
+    "title": "HEART All-Time High",
+    "url": "Today's data",
+    "content": "ALL TIME HIGH / ATH : HEART had an all time high value of 0.278557 USD on 2021-12-26T18:32:54.961Z"
+  },
+  {
+    "title": "HEART All-Time Low",
+    "url": "Today's data",
+    "content": "ALL TIME LOW / ATL : HEART had an all time low value of 0.00370636 USD on 2022-12-18T06:41:04.832Z"
+  },
+  {
+    "title": "HEART Market Rank",
+    "url": "Today's data",
+    "content": "RANK: HEART has the rank 4091"
+  },
+  {
+    "title": "HEART Community Score",
+    "url": "Today's data",
+    "content": "Community Score: 9.041"
+  },
+  {
+    "title": "HEART Liquidity Score",
+    "url": "Today's data",
+    "content": "Liquidity Score: 17.008"
+  },
+  {
+    "title": "HEART Twitter Followers",
+    "url": "Social data",
+    "content": "Twitter Followers: 48381"
+  },
+  {
+    "title": "HEART Reddit Subscribers",
+    "url": "Social data",
+    "content": "Reddit Subscribers: 0"
+  },
+  {
+    "title": "HEART Facebook Likes",
+    "url": "Social data",
+    "content": "Facebook Likes: 0"
+  },
+  {
+    "title": "HEART Telegram Users",
+    "url": "Social data",
+    "content": "Telegram Users: 10890"
+  },
+  {
+    "title": "Recent News about Photoshop",
+    "url": "https://cryptopanic.com/news/18601696/IndustryNews-Experience-the-Future-of-Photoshop-with-Generative-Fill",
+    "content": "Title: #IndustryNewsExperience the Future of @Photoshop with Generative Fill"
+  },
+  {
+    "title": "News about Robert Gherghe, Head of Content",
+    "url": "https://cryptopanic.com/news/18596364/16-If-its-Friday-its-meet-the-HumansTeam-Meet-Robert-Gherghe-our-Head-of-Content-at",
+    "content": "Title: 1/6If it's Friday, it's meet the #HumansTeam!Meet Robert Gherghe, our Head of Content at"
+  },
+  {
+    "title": "News about CEO's Live Demo",
+    "url": "https://cryptopanic.com/news/18587558/12-Dont-Miss-Out-Watch-our-CEOs-Live-Demo-on-PowerHasheurs-Twitch-Channel-Humans-if-you-didnt-catch",
+    "content": "Title: 1/2 Don't Miss Out! Watch our CEO's Live Demo on @PowerHasheur's Twitch Channel!Humans, if you didn't catch…"
+  },
+  {
+    "title": "HEART Community Discord Discussion",
+    "url": "Community Chat",
+    "content": "Various user messages from Discord/Telegram chat"
+  },
+  {
+    "title": "The Purpose of Blockchain in HEART",
+    "url": "Portfolio Data",
+    "content": "The synthetic media, AI apps, and other digital assets utilize blockchain technology to generate Non-Fungible Tokens (NFTs)"
+  },
+  {
+    "title": "The Transparency of HEART",
+    "url": "Portfolio Data",
+    "content": "Non-Fungible Tokens (NFTs) as a way of creating transparency, provenance, accountability, and long-term governance."
+  },
+  {
+    "title": "Use of HEART",
+    "url": "Portfolio Data",
+    "content": "Individuals are empowered to create and own their digital likenesses, which may be used by themselves and others in the creation of any number of digital assets."
+  },
+  {
+    "title": "The uniqueness of HEART",
+    "url": "Portfolio Data",
+    "content": "It combines a library of AI tools into a creative studio suite where users will be able to pick and choose as they bring their ideas to life."
+  },
+  {
+    "title": "Recent Significant Changes in HEART",
+    "url": "Today's data",
+    "content": "HEART had a movement of -3.31874% with a value of -0.000512925501390087"
+  },
+  {
+    "title": "Potential Future Changes in HEART",
+    "url": "Today's data / Social data",
+    "content": "Various factors such as market conditions, community sentiment, project developments, etc."
+  },
+  {
+    "title": "Recent HEART Volatility",
+    "url": "Today's data",
+    "content": "24H TIME HIGH: HEART has had a 24 hour high of 0.01545543 USD, 24H TIME LOW: HEART has had a 24 hour low of 0.0148992 USD"
+  },
+  {
+    "title": "HEART Historical Performance",
+    "url": "Today's data",
+    "content": "ALL TIME HIGH / ATH : HEART had an all time high value of 0.278557 USD, ALL TIME LOW / ATL : HEART had an all time low value of 0.00370636 USD"
+  },
+  {
+    "title": "HEART's Influence on Social Media",
+    "url": "Social data",
+    "content": "Twitter Followers: 48381, Reddit Subscribers: 0, Facebook Likes: 0, Telegram Users: 10890"
+  },
+  {
+    "title": "Recent News Impact on HEART",
+    "url": "https://cryptopanic.com/news/18601696/IndustryNews-Experience-the-Future-of-Photoshop-with-Generative-Fill",
+    "content": "This news may have influence on the HEART community, depending on how they perceive the content."
+  }
+]
+questions = [
+  "Can you describe the mission of the HEART blockchain platform?",
+  "What is the total supply of the HEART cryptocurrency?",
+  "How many HEART coins do I currently own in my portfolio?",
+  "What was the maximum supply of HEART at the time of its launch?",
+  "What is the current circulating supply of HEART?",
+  "Can you provide me with the current market price of a single HEART coin?",
+  "How much has the price of the HEART coin changed in the past 24 hours?",
+  "What was the highest price of the HEART coin in the last 24 hours?",
+  "What was the lowest price of the HEART coin in the last 24 hours?",
+  "When did HEART hit its all-time high price, and what was it?",
+  "When did HEART hit its all-time low price, and what was it?",
+  "What is the current market rank of HEART?",
+  "What is the community score of HEART?",
+  "What is the liquidity score of HEART?",
+  "How many Twitter followers does HEART have?",
+  "How many Reddit subscribers does HEART have?",
+  "How many Facebook likes does HEART have?",
+  "How many Telegram users does HEART have?",
+  "Can you provide a summary of the recent news about the future of Photoshop and its relevance to HEART?",
+  "Who is Robert Gherghe and what is his role in HEART's ecosystem?",
+  "Can you provide a summary of the CEO's live demo mentioned in the recent news?",
+  "What do the recent social announcements imply for the future of HEART?",
+  "Can you provide me with any confirmed technical indicators for HEART?",
+  "Who are some notable figures in the HEART community chat on Discord/Telegram?",
+  "What was the recent issue discussed in the HEART community chat and how was it resolved?",
+  "Are there any noteworthy events or updates from the HEART community chat?",
+  "How did the community react to the recent news of the live demo by the CEO?",
+  "How is the community discussion shaping the development and perception of the HEART project?",
+  "What video was recently shared in the HEART community and what does it cover?",
+  "What were some of the topics discussed in the community chat this morning?",
+  "What is the staking update discussed in the community chat?",
+  "Can you provide a summary of the recent Twitter post by @cryptoaceyt about HEART?",
+  "What was the suggestion made by AleexRaddu regarding staking on the Mainnet?",
+  "What is the confusion mentioned by Eduard in the community chat about staking?",
+  "What is the proposed solution for the staking issue mentioned in the community chat?",
+  "Are there any concerns or issues raised by the community regarding the platform's functionality?",
+  "How is the team addressing the community's concerns and suggestions?",
+  "What is the current sentiment in the community regarding the future of the HEART project?",
+  "What is the level of community involvement in the development and decision-making of the HEART project?",
+  "What was the conversation between Exalare and AndreeaZenya about in the community chat?",
+  "Is there any important upcoming event for HEART mentioned in the community chat?",
+  "What is the recent update shared by AndreeaZenya in the community chat?",
+  "What are the main takeaways from the recent HEART community chat?",
+  "How is the community chat influencing the strategic decisions of the HEART project?",
+  "What is the market sentiment about HEART based on the community chat?",
+  "Has there been any negative news about HEART recently?",
+  "What are the most exciting recent developments in the HEART project?",
+  "Are there any recent collaborations or partnerships involving HEART?",
+  "What is the potential impact of the recent HEART news on its market performance?",
+  "Based on the community chat and recent news, what is the overall future outlook for HEART?"
+]
