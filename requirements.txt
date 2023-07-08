@@ -3,7 +3,14 @@ rouge_score
 fire
 openai
 transformers>=4.28.1
-torch
+torch==1.12.1
 sentencepiece
 tokenizers>=0.13.3
 wandb
+ipywidgets==7.7.1
+matplotlib==3.7.0
+numpy==1.24.2
+pandas==1.5.3
+torchvision==0.13.1
+tqdm==4.64.0
+
