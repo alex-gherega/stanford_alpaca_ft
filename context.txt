@@ -1,0 +1,162 @@
+[
+  {
+    "title": "HEART Description",
+    "url": "Portfolio Data",
+    "content": "Humans.ai is a next generation blockchain platform that brings together an ecosystem of stakeholders around the use of AI to create at scale."
+  },
+  {
+    "title": "HEART Total Supply",
+    "url": "Portfolio Data",
+    "content": "TOTAL SUPPLY: 7800000000"
+  },
+  {
+    "title": "HEART Coins Owned",
+    "url": "Portfolio Data",
+    "content": "AMOUNT OF COINS OWNED: 3256123"
+  },
+  {
+    "title": "HEART Maximum Supply",
+    "url": "Portfolio Data",
+    "content": "MAX SUPPLY: 7800000000"
+  },
+  {
+    "title": "HEART Circulating Supply",
+    "url": "Portfolio Data",
+    "content": "CIRCULATING SUPPLY: 4317300000"
+  },
+  {
+    "title": "HEART Current Price",
+    "url": "Today's data",
+    "content": "PRICE PER COIN: 0.0149425$"
+  },
+  {
+    "title": "HEART 24h Price Change",
+    "url": "Today's data",
+    "content": "24h PRICE CHANGE: HEART had a movement of -3.31874%"
+  },
+  {
+    "title": "HEART 24h High",
+    "url": "Today's data",
+    "content": "24H TIME HIGH: HEART has had a 24 hour high of 0.01545543 USD"
+  },
+  {
+    "title": "HEART 24h Low",
+    "url": "Today's data",
+    "content": "24H TIME LOW: HEART has had a 24 hour low of 0.0148992 USD"
+  },
+  {
+    "title": "HEART All-Time High",
+    "url": "Today's data",
+    "content": "ALL TIME HIGH / ATH : HEART had an all time high value of 0.278557 USD on 2021-12-26T18:32:54.961Z"
+  },
+  {
+    "title": "HEART All-Time Low",
+    "url": "Today's data",
+    "content": "ALL TIME LOW / ATL : HEART had an all time low value of 0.00370636 USD on 2022-12-18T06:41:04.832Z"
+  },
+  {
+    "title": "HEART Market Rank",
+    "url": "Today's data",
+    "content": "RANK: HEART has the rank 4091"
+  },
+  {
+    "title": "HEART Community Score",
+    "url": "Today's data",
+    "content": "Community Score: 9.041"
+  },
+  {
+    "title": "HEART Liquidity Score",
+    "url": "Today's data",
+    "content": "Liquidity Score: 17.008"
+  },
+  {
+    "title": "HEART Twitter Followers",
+    "url": "Social data",
+    "content": "Twitter Followers: 48381"
+  },
+  {
+    "title": "HEART Reddit Subscribers",
+    "url": "Social data",
+    "content": "Reddit Subscribers: 0"
+  },
+  {
+    "title": "HEART Facebook Likes",
+    "url": "Social data",
+    "content": "Facebook Likes: 0"
+  },
+  {
+    "title": "HEART Telegram Users",
+    "url": "Social data",
+    "content": "Telegram Users: 10890"
+  },
+  {
+    "title": "Recent News about Photoshop",
+    "url": "https://cryptopanic.com/news/18601696/IndustryNews-Experience-the-Future-of-Photoshop-with-Generative-Fill",
+    "content": "Title: #IndustryNewsExperience the Future of @Photoshop with Generative Fill"
+  },
+  {
+    "title": "News about Robert Gherghe, Head of Content",
+    "url": "https://cryptopanic.com/news/18596364/16-If-its-Friday-its-meet-the-HumansTeam-Meet-Robert-Gherghe-our-Head-of-Content-at",
+    "content": "Title: 1/6If it's Friday, it's meet the #HumansTeam!Meet Robert Gherghe, our Head of Content at"
+  },
+  {
+    "title": "News about CEO's Live Demo",
+    "url": "https://cryptopanic.com/news/18587558/12-Dont-Miss-Out-Watch-our-CEOs-Live-Demo-on-PowerHasheurs-Twitch-Channel-Humans-if-you-didnt-catch",
+    "content": "Title: 1/2 Don't Miss Out! Watch our CEO's Live Demo on @PowerHasheur's Twitch Channel!Humans, if you didn't catch…"
+  },
+  {
+    "title": "HEART Community Discord Discussion",
+    "url": "Community Chat",
+    "content": "Various user messages from Discord/Telegram chat"
+  },
+  {
+    "title": "The Purpose of Blockchain in HEART",
+    "url": "Portfolio Data",
+    "content": "The synthetic media, AI apps, and other digital assets utilize blockchain technology to generate Non-Fungible Tokens (NFTs)"
+  },
+  {
+    "title": "The Transparency of HEART",
+    "url": "Portfolio Data",
+    "content": "Non-Fungible Tokens (NFTs) as a way of creating transparency, provenance, accountability, and long-term governance."
+  },
+  {
+    "title": "Use of HEART",
+    "url": "Portfolio Data",
+    "content": "Individuals are empowered to create and own their digital likenesses, which may be used by themselves and others in the creation of any number of digital assets."
+  },
+  {
+    "title": "The uniqueness of HEART",
+    "url": "Portfolio Data",
+    "content": "It combines a library of AI tools into a creative studio suite where users will be able to pick and choose as they bring their ideas to life."
+  },
+  {
+    "title": "Recent Significant Changes in HEART",
+    "url": "Today's data",
+    "content": "HEART had a movement of -3.31874% with a value of -0.000512925501390087"
+  },
+  {
+    "title": "Potential Future Changes in HEART",
+    "url": "Today's data / Social data",
+    "content": "Various factors such as market conditions, community sentiment, project developments, etc."
+  },
+  {
+    "title": "Recent HEART Volatility",
+    "url": "Today's data",
+    "content": "24H TIME HIGH: HEART has had a 24 hour high of 0.01545543 USD, 24H TIME LOW: HEART has had a 24 hour low of 0.0148992 USD"
+  },
+  {
+    "title": "HEART Historical Performance",
+    "url": "Today's data",
+    "content": "ALL TIME HIGH / ATH : HEART had an all time high value of 0.278557 USD, ALL TIME LOW / ATL : HEART had an all time low value of 0.00370636 USD"
+  },
+  {
+    "title": "HEART's Influence on Social Media",
+    "url": "Social data",
+    "content": "Twitter Followers: 48381, Reddit Subscribers: 0, Facebook Likes: 0, Telegram Users: 10890"
+  },
+  {
+    "title": "Recent News Impact on HEART",
+    "url": "https://cryptopanic.com/news/18601696/IndustryNews-Experience-the-Future-of-Photoshop-with-Generative-Fill",
+    "content": "This news may have influence on the HEART community, depending on how they perceive the content."
+  }
+]

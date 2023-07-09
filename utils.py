@@ -6,6 +6,8 @@ import io
 import sys
 import time
 import json
+import re
+import ast
 from typing import Optional, Sequence, Union
 
 import openai
@@ -171,3 +173,73 @@ def jload(f, mode="r"):
     jdict = json.load(f)
     f.close()
     return jdict
+
+# added:
+def _write_and_reset_buffer(output_file, buffer, mode='w'):
+    with open(output_file, mode) as output:
+        output.writelines(buffer)
+    buffer = []
+    counter = 0
+    return buffer, counter
+
+def accumulate_lines(input_file, varname, max_buffer_size): # TODO: parse all with regular expressions
+    buffer = []
+    counter = 0
+
+    skip = True
+
+    varout_file = f'{varname}.txt'
+    pattern = rf'{varname}\s*?=\s*?\[\s*?\n'
+    mode = 'w'
+
+    with open(input_file, 'r') as file:
+
+        for line in file:
+            if re.match(pattern, line):
+                skip, line = False, '[\n'
+
+            if skip: 
+                # ignore lines that don't match the var
+                continue
+
+            buffer.append(line)
+            counter += len(line)
+            
+            if max_buffer_size and counter > max_buffer_size: # can return the loaded data or we can write it to a file 
+                buffer, counter = _write_and_reset_buffer(varout_file, buffer, mode)
+                mode='a'
+
+            if line == ']\n':
+                break
+
+    if max_buffer_size and buffer:
+        _write_and_reset_buffer(varout_file, buffer, mode)
+
+    return 0 if max_buffer_size else buffer
+
+# # Example usage: see test.ipynb cell #4
+# input_file = 'humansai-data.txt'
+#
+# max_buffer_size = 1000000  # 1MB
+#
+# context = utils.accumulate_lines(input_file, 'context', max_buffer_size)
+# questions = utils.accumulate_lines(input_file, 'questions', max_buffer_size)
+#
+# context, questions
+
+def parse2py(strs: list):
+    return ast.literal_eval(' '.join(strs))
+
+def varload(input_file):
+    with open(input_file) as f:
+        lines = f.readlines()
+    return parse2py(lines)
+
+def heart2jinst(context, questions):
+    instructions = []
+    for q, ctx in zip(questions, context): # TODO: a buffered/stream approach is also required
+        instructions.append({"instruction": q,
+                             "input": {k:ctx[k] for k in ['title','url']},
+                             "output": ctx['content']})
+    return instructions
+

@@ -1,0 +1,258 @@
+[
+    {
+        "instruction": "Can you describe the mission of the HEART blockchain platform?",
+        "input": {
+            "title": "HEART Description",
+            "url": "Portfolio Data"
+        },
+        "output": "Humans.ai is a next generation blockchain platform that brings together an ecosystem of stakeholders around the use of AI to create at scale."
+    },
+    {
+        "instruction": "What is the total supply of the HEART cryptocurrency?",
+        "input": {
+            "title": "HEART Total Supply",
+            "url": "Portfolio Data"
+        },
+        "output": "TOTAL SUPPLY: 7800000000"
+    },
+    {
+        "instruction": "How many HEART coins do I currently own in my portfolio?",
+        "input": {
+            "title": "HEART Coins Owned",
+            "url": "Portfolio Data"
+        },
+        "output": "AMOUNT OF COINS OWNED: 3256123"
+    },
+    {
+        "instruction": "What was the maximum supply of HEART at the time of its launch?",
+        "input": {
+            "title": "HEART Maximum Supply",
+            "url": "Portfolio Data"
+        },
+        "output": "MAX SUPPLY: 7800000000"
+    },
+    {
+        "instruction": "What is the current circulating supply of HEART?",
+        "input": {
+            "title": "HEART Circulating Supply",
+            "url": "Portfolio Data"
+        },
+        "output": "CIRCULATING SUPPLY: 4317300000"
+    },
+    {
+        "instruction": "Can you provide me with the current market price of a single HEART coin?",
+        "input": {
+            "title": "HEART Current Price",
+            "url": "Today's data"
+        },
+        "output": "PRICE PER COIN: 0.0149425$"
+    },
+    {
+        "instruction": "How much has the price of the HEART coin changed in the past 24 hours?",
+        "input": {
+            "title": "HEART 24h Price Change",
+            "url": "Today's data"
+        },
+        "output": "24h PRICE CHANGE: HEART had a movement of -3.31874%"
+    },
+    {
+        "instruction": "What was the highest price of the HEART coin in the last 24 hours?",
+        "input": {
+            "title": "HEART 24h High",
+            "url": "Today's data"
+        },
+        "output": "24H TIME HIGH: HEART has had a 24 hour high of 0.01545543 USD"
+    },
+    {
+        "instruction": "What was the lowest price of the HEART coin in the last 24 hours?",
+        "input": {
+            "title": "HEART 24h Low",
+            "url": "Today's data"
+        },
+        "output": "24H TIME LOW: HEART has had a 24 hour low of 0.0148992 USD"
+    },
+    {
+        "instruction": "When did HEART hit its all-time high price, and what was it?",
+        "input": {
+            "title": "HEART All-Time High",
+            "url": "Today's data"
+        },
+        "output": "ALL TIME HIGH / ATH : HEART had an all time high value of 0.278557 USD on 2021-12-26T18:32:54.961Z"
+    },
+    {
+        "instruction": "When did HEART hit its all-time low price, and what was it?",
+        "input": {
+            "title": "HEART All-Time Low",
+            "url": "Today's data"
+        },
+        "output": "ALL TIME LOW / ATL : HEART had an all time low value of 0.00370636 USD on 2022-12-18T06:41:04.832Z"
+    },
+    {
+        "instruction": "What is the current market rank of HEART?",
+        "input": {
+            "title": "HEART Market Rank",
+            "url": "Today's data"
+        },
+        "output": "RANK: HEART has the rank 4091"
+    },
+    {
+        "instruction": "What is the community score of HEART?",
+        "input": {
+            "title": "HEART Community Score",
+            "url": "Today's data"
+        },
+        "output": "Community Score: 9.041"
+    },
+    {
+        "instruction": "What is the liquidity score of HEART?",
+        "input": {
+            "title": "HEART Liquidity Score",
+            "url": "Today's data"
+        },
+        "output": "Liquidity Score: 17.008"
+    },
+    {
+        "instruction": "How many Twitter followers does HEART have?",
+        "input": {
+            "title": "HEART Twitter Followers",
+            "url": "Social data"
+        },
+        "output": "Twitter Followers: 48381"
+    },
+    {
+        "instruction": "How many Reddit subscribers does HEART have?",
+        "input": {
+            "title": "HEART Reddit Subscribers",
+            "url": "Social data"
+        },
+        "output": "Reddit Subscribers: 0"
+    },
+    {
+        "instruction": "How many Facebook likes does HEART have?",
+        "input": {
+            "title": "HEART Facebook Likes",
+            "url": "Social data"
+        },
+        "output": "Facebook Likes: 0"
+    },
+    {
+        "instruction": "How many Telegram users does HEART have?",
+        "input": {
+            "title": "HEART Telegram Users",
+            "url": "Social data"
+        },
+        "output": "Telegram Users: 10890"
+    },
+    {
+        "instruction": "Can you provide a summary of the recent news about the future of Photoshop and its relevance to HEART?",
+        "input": {
+            "title": "Recent News about Photoshop",
+            "url": "https://cryptopanic.com/news/18601696/IndustryNews-Experience-the-Future-of-Photoshop-with-Generative-Fill"
+        },
+        "output": "Title: #IndustryNewsExperience the Future of @Photoshop with Generative Fill"
+    },
+    {
+        "instruction": "Who is Robert Gherghe and what is his role in HEART's ecosystem?",
+        "input": {
+            "title": "News about Robert Gherghe, Head of Content",
+            "url": "https://cryptopanic.com/news/18596364/16-If-its-Friday-its-meet-the-HumansTeam-Meet-Robert-Gherghe-our-Head-of-Content-at"
+        },
+        "output": "Title: 1/6If it's Friday, it's meet the #HumansTeam!Meet Robert Gherghe, our Head of Content at"
+    },
+    {
+        "instruction": "Can you provide a summary of the CEO's live demo mentioned in the recent news?",
+        "input": {
+            "title": "News about CEO's Live Demo",
+            "url": "https://cryptopanic.com/news/18587558/12-Dont-Miss-Out-Watch-our-CEOs-Live-Demo-on-PowerHasheurs-Twitch-Channel-Humans-if-you-didnt-catch"
+        },
+        "output": "Title: 1/2 Don't Miss Out! Watch our CEO's Live Demo on @PowerHasheur's Twitch Channel!Humans, if you didn't catch\u2026"
+    },
+    {
+        "instruction": "What do the recent social announcements imply for the future of HEART?",
+        "input": {
+            "title": "HEART Community Discord Discussion",
+            "url": "Community Chat"
+        },
+        "output": "Various user messages from Discord/Telegram chat"
+    },
+    {
+        "instruction": "Can you provide me with any confirmed technical indicators for HEART?",
+        "input": {
+            "title": "The Purpose of Blockchain in HEART",
+            "url": "Portfolio Data"
+        },
+        "output": "The synthetic media, AI apps, and other digital assets utilize blockchain technology to generate Non-Fungible Tokens (NFTs)"
+    },
+    {
+        "instruction": "Who are some notable figures in the HEART community chat on Discord/Telegram?",
+        "input": {
+            "title": "The Transparency of HEART",
+            "url": "Portfolio Data"
+        },
+        "output": "Non-Fungible Tokens (NFTs) as a way of creating transparency, provenance, accountability, and long-term governance."
+    },
+    {
+        "instruction": "What was the recent issue discussed in the HEART community chat and how was it resolved?",
+        "input": {
+            "title": "Use of HEART",
+            "url": "Portfolio Data"
+        },
+        "output": "Individuals are empowered to create and own their digital likenesses, which may be used by themselves and others in the creation of any number of digital assets."
+    },
+    {
+        "instruction": "Are there any noteworthy events or updates from the HEART community chat?",
+        "input": {
+            "title": "The uniqueness of HEART",
+            "url": "Portfolio Data"
+        },
+        "output": "It combines a library of AI tools into a creative studio suite where users will be able to pick and choose as they bring their ideas to life."
+    },
+    {
+        "instruction": "How did the community react to the recent news of the live demo by the CEO?",
+        "input": {
+            "title": "Recent Significant Changes in HEART",
+            "url": "Today's data"
+        },
+        "output": "HEART had a movement of -3.31874% with a value of -0.000512925501390087"
+    },
+    {
+        "instruction": "How is the community discussion shaping the development and perception of the HEART project?",
+        "input": {
+            "title": "Potential Future Changes in HEART",
+            "url": "Today's data / Social data"
+        },
+        "output": "Various factors such as market conditions, community sentiment, project developments, etc."
+    },
+    {
+        "instruction": "What video was recently shared in the HEART community and what does it cover?",
+        "input": {
+            "title": "Recent HEART Volatility",
+            "url": "Today's data"
+        },
+        "output": "24H TIME HIGH: HEART has had a 24 hour high of 0.01545543 USD, 24H TIME LOW: HEART has had a 24 hour low of 0.0148992 USD"
+    },
+    {
+        "instruction": "What were some of the topics discussed in the community chat this morning?",
+        "input": {
+            "title": "HEART Historical Performance",
+            "url": "Today's data"
+        },
+        "output": "ALL TIME HIGH / ATH : HEART had an all time high value of 0.278557 USD, ALL TIME LOW / ATL : HEART had an all time low value of 0.00370636 USD"
+    },
+    {
+        "instruction": "What is the staking update discussed in the community chat?",
+        "input": {
+            "title": "HEART's Influence on Social Media",
+            "url": "Social data"
+        },
+        "output": "Twitter Followers: 48381, Reddit Subscribers: 0, Facebook Likes: 0, Telegram Users: 10890"
+    },
+    {
+        "instruction": "Can you provide a summary of the recent Twitter post by @cryptoaceyt about HEART?",
+        "input": {
+            "title": "Recent News Impact on HEART",
+            "url": "https://cryptopanic.com/news/18601696/IndustryNews-Experience-the-Future-of-Photoshop-with-Generative-Fill"
+        },
+        "output": "This news may have influence on the HEART community, depending on how they perceive the content."
+    }
+]
