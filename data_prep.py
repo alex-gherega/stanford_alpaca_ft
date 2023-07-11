@@ -179,3 +179,10 @@ def doheat(ds, sentence_model=SentenceTransformer('sentence-transformers/msmarco
     scores_matrix = [score_similarity(d, docs_emb) for d in docs_emb]
 
     return np.array(scores_matrix)
+
+def converttodict(dataframe_ds):
+    instructions = [{'instruction': q,
+                     'input': c,
+                     'output': a} for q, c, a in dataframe_ds[['instruction', 'context', 'answer']].values]
+    return instructions
+
