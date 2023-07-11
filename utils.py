@@ -237,7 +237,7 @@ def varload(input_file):
 
 def heart2jinst(context, questions):
     instructions = []
-    for q, ctx in zip(questions, context): # TODO: a buffered/stream approach is also required
+    for q, ctx in zip(questions, context): # TODO: a buffered/stream approach might be required
         instructions.append({"instruction": q,
                              "input": {k:ctx[k] for k in ['title','url']},
                              "output": ctx['content']})
