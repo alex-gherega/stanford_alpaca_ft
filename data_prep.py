@@ -186,3 +186,11 @@ def converttodict(dataframe_ds):
                      'output': a} for q, c, a in dataframe_ds[['instruction', 'context', 'answer']].values]
     return instructions
 
+if __name__ == "__main__":
+    ds = make_trainval()
+    train_ds = pd.concat((ds[0]['train'], ds[1]['train']))
+    test_ds = pd.concat((ds[0]['test'], ds[1]['test']))
+    # save to file
+    utils.jdump(converttodict(train_ds),'heart_trainds.json')
+    utils.jdump(converttodict(test_ds),'heart_testds.json')
+
