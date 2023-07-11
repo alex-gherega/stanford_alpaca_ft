@@ -1,0 +1,57 @@
+[
+    {
+        "instruction": "What video was recently shared in the HEART community and what does it cover?",
+        "input": "The document entitled HEART Community Discord Discussion found at the URL link Community Chat has the following content: Various user messages from Discord/Telegram chat",
+        "output": "Various user messages"
+    },
+    {
+        "instruction": "What were some of the topics discussed in the community chat this morning?",
+        "input": "The document entitled HEART Community Discord Discussion found at the URL link Community Chat has the following content: Various user messages from Discord/Telegram chat",
+        "output": "Various user messages"
+    },
+    {
+        "instruction": "Can you provide a summary of the recent news about the future of Photoshop and its relevance to HEART?",
+        "input": "The document entitled Recent News Impact on HEART found at the URL link https://cryptopanic.com/news/18601696/IndustryNews-Experience-the-Future-of-Photoshop-with-Generative-Fill has the following content: This news may have influence on the HEART community, depending on how they perceive the content.",
+        "output": "depending on how they perceive the content"
+    },
+    {
+        "instruction": "Are there any noteworthy events or updates from the HEART community chat?",
+        "input": "The document entitled HEART Community Discord Discussion found at the URL link Community Chat has the following content: Various user messages from Discord/Telegram chat",
+        "output": "Various user messages"
+    },
+    {
+        "instruction": "What was the recent issue discussed in the HEART community chat and how was it resolved?",
+        "input": "The document entitled HEART Community Discord Discussion found at the URL link Community Chat has the following content: Various user messages from Discord/Telegram chat",
+        "output": "Various user messages"
+    },
+    {
+        "instruction": "What is the recent update shared by AndreeaZenya in the community chat?",
+        "input": "The document entitled HEART Community Discord Discussion found at the URL link Community Chat has the following content: Various user messages from Discord/Telegram chat",
+        "output": "Various user messages"
+    },
+    {
+        "instruction": "How did the community react to the recent news of the live demo by the CEO?",
+        "input": "The document entitled News about CEO's Live Demo found at the URL link https://cryptopanic.com/news/18587558/12-Dont-Miss-Out-Watch-our-CEOs-Live-Demo-on-PowerHasheurs-Twitch-Channel-Humans-if-you-didnt-catch has the following content: Title: 1/2 Don't Miss Out! Watch our CEO's Live Demo on @PowerHasheur's Twitch Channel!Humans, if you didn't catch\u2026",
+        "output": "Humans, if you didn't catch\u2026"
+    },
+    {
+        "instruction": "What is the potential impact of the recent HEART news on its market performance?",
+        "input": "The document entitled Recent News Impact on HEART found at the URL link https://cryptopanic.com/news/18601696/IndustryNews-Experience-the-Future-of-Photoshop-with-Generative-Fill has the following content: This news may have influence on the HEART community, depending on how they perceive the content.",
+        "output": "depending on how they perceive the content"
+    },
+    {
+        "instruction": "How many Reddit subscribers does HEART have?",
+        "input": "The document entitled HEART's Influence on Social Media found at the URL link Social data has the following content: Twitter Followers: 48381, Reddit Subscribers: 0, Facebook Likes: 0, Telegram Users: 10890",
+        "output": "0"
+    },
+    {
+        "instruction": "How is the team addressing the community's concerns and suggestions?",
+        "input": "The document entitled HEART Community Discord Discussion found at the URL link Community Chat has the following content: Various user messages from Discord/Telegram chat",
+        "output": "Discord Discussion"
+    },
+    {
+        "instruction": "What is the proposed solution for the staking issue mentioned in the community chat?",
+        "input": "The document entitled HEART Community Discord Discussion found at the URL link Community Chat has the following content: Various user messages from Discord/Telegram chat",
+        "output": "HEART"
+    }
+]

@@ -242,4 +242,3 @@ def heart2jinst(context, questions):
                              "input": {k:ctx[k] for k in ['title','url']},
                              "output": ctx['content']})
     return instructions
-

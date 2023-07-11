@@ -1,0 +1,197 @@
+[
+    {
+        "instruction": "What is the community score of HEART?",
+        "input": "The document entitled HEART Community Score found at the URL link Today's data has the following content: Community Score: 9.041",
+        "output": "9.041"
+    },
+    {
+        "instruction": "Can you provide a summary of the CEO's live demo mentioned in the recent news?",
+        "input": "The document entitled News about CEO's Live Demo found at the URL link https://cryptopanic.com/news/18587558/12-Dont-Miss-Out-Watch-our-CEOs-Live-Demo-on-PowerHasheurs-Twitch-Channel-Humans-if-you-didnt-catch has the following content: Title: 1/2 Don't Miss Out! Watch our CEO's Live Demo on @PowerHasheur's Twitch Channel!Humans, if you didn't catch\u2026",
+        "output": "https://cryptopanic."
+    },
+    {
+        "instruction": "How much has the price of the HEART coin changed in the past 24 hours?",
+        "input": "The document entitled HEART Current Price found at the URL link Today's data has the following content: PRICE PER COIN: 0.0149425$",
+        "output": "0.0149425$"
+    },
+    {
+        "instruction": "Has there been any negative news about HEART recently?",
+        "input": "The document entitled Recent News Impact on HEART found at the URL link https://cryptopanic.com/news/18601696/IndustryNews-Experience-the-Future-of-Photoshop-with-Generative-Fill has the following content: This news may have influence on the HEART community, depending on how they perceive the content.",
+        "output": "Recent News Impact"
+    },
+    {
+        "instruction": "Can you describe the mission of the HEART blockchain platform?",
+        "input": "The document entitled HEART Description found at the URL link Portfolio Data has the following content: Humans.ai is a next generation blockchain platform that brings together an ecosystem of stakeholders around the use of AI to create at scale.",
+        "output": "brings together an ecosystem of stakeholders around the use of AI to create at scale"
+    },
+    {
+        "instruction": "Who is Robert Gherghe and what is his role in HEART's ecosystem?",
+        "input": "The document entitled News about Robert Gherghe, Head of Content found at the URL link https://cryptopanic.com/news/18596364/16-If-its-Friday-its-meet-the-HumansTeam-Meet-Robert-Gherghe-our-Head-of-Content-at has the following content: Title: 1/6If it's Friday, it's meet the #HumansTeam!Meet Robert Gherghe, our Head of Content at",
+        "output": "Head of Content"
+    },
+    {
+        "instruction": "Who are some notable figures in the HEART community chat on Discord/Telegram?",
+        "input": "The document entitled HEART Community Discord Discussion found at the URL link Community Chat has the following content: Various user messages from Discord/Telegram chat",
+        "output": "Various user messages"
+    },
+    {
+        "instruction": "How many Facebook likes does HEART have?",
+        "input": "The document entitled HEART Facebook Likes found at the URL link Social data has the following content: Facebook Likes: 0",
+        "output": "0"
+    },
+    {
+        "instruction": "What was the maximum supply of HEART at the time of its launch?",
+        "input": "The document entitled HEART Maximum Supply found at the URL link Portfolio Data has the following content: MAX SUPPLY: 7800000000",
+        "output": "7800000000"
+    },
+    {
+        "instruction": "Can you provide me with any confirmed technical indicators for HEART?",
+        "input": "The document entitled Recent Significant Changes in HEART found at the URL link Today's data has the following content: HEART had a movement of -3.31874% with a value of -0.000512925501390087",
+        "output": "HEART had a movement of -3.31874%"
+    },
+    {
+        "instruction": "What is the current market rank of HEART?",
+        "input": "The document entitled HEART Market Rank found at the URL link Today's data has the following content: RANK: HEART has the rank 4091",
+        "output": "4091"
+    },
+    {
+        "instruction": "How is the community discussion shaping the development and perception of the HEART project?",
+        "input": "The document entitled Potential Future Changes in HEART found at the URL link Today's data / Social data has the following content: Various factors such as market conditions, community sentiment, project developments, etc.",
+        "output": "sentiment"
+    },
+    {
+        "instruction": "Are there any recent collaborations or partnerships involving HEART?",
+        "input": "The document entitled The uniqueness of HEART found at the URL link Portfolio Data has the following content: It combines a library of AI tools into a creative studio suite where users will be able to pick and choose as they bring their ideas to life.",
+        "output": "The uniqueness of HEART"
+    },
+    {
+        "instruction": "How many HEART coins do I currently own in my portfolio?",
+        "input": "The document entitled HEART Coins Owned found at the URL link Portfolio Data has the following content: AMOUNT OF COINS OWNED: 3256123",
+        "output": "3256123"
+    },
+    {
+        "instruction": "When did HEART hit its all-time low price, and what was it?",
+        "input": "The document entitled HEART All-Time Low found at the URL link Today's data has the following content: ALL TIME LOW / ATL : HEART had an all time low value of 0.00370636 USD on 2022-12-18T06:41:04.832Z",
+        "output": "2022-12-18"
+    },
+    {
+        "instruction": "Can you provide a summary of the recent Twitter post by @cryptoaceyt about HEART?",
+        "input": "The document entitled HEART Twitter Followers found at the URL link Social data has the following content: Twitter Followers: 48381",
+        "output": "The document entitled HEART Twitter Followers"
+    },
+    {
+        "instruction": "What is the liquidity score of HEART?",
+        "input": "The document entitled HEART Liquidity Score found at the URL link Today's data has the following content: Liquidity Score: 17.008",
+        "output": "17.008"
+    },
+    {
+        "instruction": "What do the recent social announcements imply for the future of HEART?",
+        "input": "The document entitled Potential Future Changes in HEART found at the URL link Today's data / Social data has the following content: Various factors such as market conditions, community sentiment, project developments, etc.",
+        "output": "Potential Future Changes"
+    },
+    {
+        "instruction": "How many Telegram users does HEART have?",
+        "input": "The document entitled HEART's Influence on Social Media found at the URL link Social data has the following content: Twitter Followers: 48381, Reddit Subscribers: 0, Facebook Likes: 0, Telegram Users: 10890",
+        "output": "10890"
+    },
+    {
+        "instruction": "What was the lowest price of the HEART coin in the last 24 hours?",
+        "input": "The document entitled HEART 24h Low found at the URL link Today's data has the following content: 24H TIME LOW: HEART has had a 24 hour low of 0.0148992 USD",
+        "output": "0.0148992 USD"
+    },
+    {
+        "instruction": "What is the current circulating supply of HEART?",
+        "input": "The document entitled HEART Circulating Supply found at the URL link Portfolio Data has the following content: CIRCULATING SUPPLY: 4317300000",
+        "output": "4317300000"
+    },
+    {
+        "instruction": "What is the level of community involvement in the development and decision-making of the HEART project?",
+        "input": "The document entitled HEART Community Score found at the URL link Today's data has the following content: Community Score: 9.041",
+        "output": "9.041"
+    },
+    {
+        "instruction": "What is the total supply of the HEART cryptocurrency?",
+        "input": "The document entitled HEART Total Supply found at the URL link Portfolio Data has the following content: TOTAL SUPPLY: 7800000000",
+        "output": "7800000000"
+    },
+    {
+        "instruction": "Based on the community chat and recent news, what is the overall future outlook for HEART?",
+        "input": "The document entitled Potential Future Changes in HEART found at the URL link Today's data / Social data has the following content: Various factors such as market conditions, community sentiment, project developments, etc.",
+        "output": "market conditions"
+    },
+    {
+        "instruction": "What are the most exciting recent developments in the HEART project?",
+        "input": "The document entitled Recent Significant Changes in HEART found at the URL link Today's data has the following content: HEART had a movement of -3.31874% with a value of -0.000512925501390087",
+        "output": "Recent Significant Changes"
+    },
+    {
+        "instruction": "Can you provide me with the current market price of a single HEART coin?",
+        "input": "The document entitled HEART Current Price found at the URL link Today's data has the following content: PRICE PER COIN: 0.0149425$",
+        "output": "0.0149425$"
+    },
+    {
+        "instruction": "How many Twitter followers does HEART have?",
+        "input": "The document entitled HEART Twitter Followers found at the URL link Social data has the following content: Twitter Followers: 48381",
+        "output": "48381"
+    },
+    {
+        "instruction": "How is the community chat influencing the strategic decisions of the HEART project?",
+        "input": "The document entitled HEART Community Discord Discussion found at the URL link Community Chat has the following content: Various user messages from Discord/Telegram chat",
+        "output": "HEART Community Discord Discussion"
+    },
+    {
+        "instruction": "What is the staking update discussed in the community chat?",
+        "input": "The document entitled HEART Community Discord Discussion found at the URL link Community Chat has the following content: Various user messages from Discord/Telegram chat",
+        "output": "HEART"
+    },
+    {
+        "instruction": "What was the highest price of the HEART coin in the last 24 hours?",
+        "input": "The document entitled HEART 24h High found at the URL link Today's data has the following content: 24H TIME HIGH: HEART has had a 24 hour high of 0.01545543 USD",
+        "output": "0.01545543 USD"
+    },
+    {
+        "instruction": "What is the current sentiment in the community regarding the future of the HEART project?",
+        "input": "The document entitled Potential Future Changes in HEART found at the URL link Today's data / Social data has the following content: Various factors such as market conditions, community sentiment, project developments, etc.",
+        "output": "community sentiment"
+    },
+    {
+        "instruction": "When did HEART hit its all-time high price, and what was it?",
+        "input": "The document entitled HEART All-Time High found at the URL link Today's data has the following content: ALL TIME HIGH / ATH : HEART had an all time high value of 0.278557 USD on 2021-12-26T18:32:54.961Z",
+        "output": "2021-12-26"
+    },
+    {
+        "instruction": "What is the market sentiment about HEART based on the community chat?",
+        "input": "The document entitled HEART Community Discord Discussion found at the URL link Community Chat has the following content: Various user messages from Discord/Telegram chat",
+        "output": "user messages from Discord"
+    },
+    {
+        "instruction": "What are the main takeaways from the recent HEART community chat?",
+        "input": "The document entitled HEART Community Discord Discussion found at the URL link Community Chat has the following content: Various user messages from Discord/Telegram chat",
+        "output": "Various user messages"
+    },
+    {
+        "instruction": "Is there any important upcoming event for HEART mentioned in the community chat?",
+        "input": "The document entitled HEART Community Discord Discussion found at the URL link Community Chat has the following content: Various user messages from Discord/Telegram chat",
+        "output": "Various user messages from Discord/Telegram chat"
+    },
+    {
+        "instruction": "What is the confusion mentioned by Eduard in the community chat about staking?",
+        "input": "The document entitled HEART Community Discord Discussion found at the URL link Community Chat has the following content: Various user messages from Discord/Telegram chat",
+        "output": "Various user messages"
+    },
+    {
+        "instruction": "What was the suggestion made by AleexRaddu regarding staking on the Mainnet?",
+        "input": "The document entitled News about Robert Gherghe, Head of Content found at the URL link https://cryptopanic.com/news/18596364/16-If-its-Friday-its-meet-the-HumansTeam-Meet-Robert-Gherghe-our-Head-of-Content-at has the following content: Title: 1/6If it's Friday, it's meet the #HumansTeam!Meet Robert Gherghe, our Head of Content at",
+        "output": "If it's Friday, it's meet the #HumansTeam"
+    },
+    {
+        "instruction": "Are there any concerns or issues raised by the community regarding the platform's functionality?",
+        "input": "The document entitled Potential Future Changes in HEART found at the URL link Today's data / Social data has the following content: Various factors such as market conditions, community sentiment, project developments, etc.",
+        "output": "community sentiment"
+    },
+    {
+        "instruction": "What was the conversation between Exalare and AndreeaZenya about in the community chat?",
+        "input": "The document entitled HEART Community Discord Discussion found at the URL link Community Chat has the following content: Various user messages from Discord/Telegram chat",
+        "output": "Various user messages"
+    }
+]
