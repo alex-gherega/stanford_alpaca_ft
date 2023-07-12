@@ -1,6 +1,7 @@
 from sentence_transformers import SentenceTransformer, util
 from transformers import pipeline
 
+import fire
 import utils
 import heapq
 import pandas as pd
@@ -180,17 +181,40 @@ def doheat(ds, sentence_model=SentenceTransformer('sentence-transformers/msmarco
 
     return np.array(scores_matrix)
 
-def converttodict(dataframe_ds):
+def dobiheat(ds1,ds2,sentence_model=SentenceTransformer('sentence-transformers/msmarco-distilbert-base-tas-b')):
+    doc_format = ("""The question to be answered is {q}.
+                    The context for this question is: {c}.
+                    The answer to the question is: {a}""")
+    docs1 = [doc_format.format_map({"q": q,
+                                    "c": c,
+                                    "a": a}) for q, c, a in ds1[['instruction', 'context', 'answer']].values]
+    docs2 = [doc_format.format_map({"q": q,
+                                    "c": c,
+                                    "a": a}) for q, c, a in ds2[['instruction', 'context', 'answer']].values]
+
+
+    docs_emb1 = sentence_model.encode(docs1).tolist()
+    docs_emb2 = sentence_model.encode(docs2).tolist()
+
+    scores_matrix = [score_similarity(d, docs_emb2) for d in docs_emb1]
+
+    return np.array(scores_matrix)
+
+def convert2dict(dataframe_ds):
     instructions = [{'instruction': q,
                      'input': c,
                      'output': a} for q, c, a in dataframe_ds[['instruction', 'context', 'answer']].values]
     return instructions
 
-if __name__ == "__main__":
+def main():
     ds = make_trainval()
     train_ds = pd.concat((ds[0]['train'], ds[1]['train']))
     test_ds = pd.concat((ds[0]['test'], ds[1]['test']))
     # save to file
-    utils.jdump(converttodict(train_ds),'heart_trainds.json')
-    utils.jdump(converttodict(test_ds),'heart_testds.json')
+    train_ds = convert2dict(train_ds)#,'heart_trainds.json'
+    test_ds = convert2dict(test_ds)#,'heart_testds.json'
+    utils.jdump({'train':train_ds, 'test': test_ds},'heart_dataset.json')
+
+if __name__ == "__main__":
+    fire.Fire(main)
 
