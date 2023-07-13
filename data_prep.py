@@ -11,7 +11,9 @@ import collections
 
 def score_similarity(query_emb=None, docs_emb=np.array([])):
     #Compute dot score between query and all document embeddings
-    scores = util.dot_score(query_emb, docs_emb)[0].cpu().tolist()
+    # scores = util.dot_score(query_emb, docs_emb)[0].cpu().tolist()
+    scores = util.cos_sim(query_emb, docs_emb)[0].cpu().tolist()
+
     return scores
 
 def match_qncs(model, query, context, query_emb=None, context_emb=[]): # match questions with possible contexts
